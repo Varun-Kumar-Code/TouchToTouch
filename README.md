@@ -1,4 +1,4 @@
-# E-Commerce-Website
+# E-Commerce Website
 This is a static e-commerce website built using HTML, CSS, and JavaScript. The project showcases a responsive and interactive e-commerce platform with the following features:
 
 ## ✨Features

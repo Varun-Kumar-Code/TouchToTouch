@@ -134,16 +134,11 @@ button:hover {
 @media (max-width: 768px) {
     .logo {
         width: 80px;
-        margin-left: auto !important;
     }
 
     .navbar {
-        padding-top: 2px !important;
-        padding-bottom: 2px !important;
-    }
-
-    .navbar-toggler {
-        margin-right: auto !important;
+        padding-top: 1px !important;
+        padding-bottom: 1px !important;
     }
 
     .nav-buttons {
@@ -170,9 +165,15 @@ button:hover {
         margin: 0 !important;
     }
 
+    .parallax pre {
+        font-size: 25px;
+    }
+
     .brand {
         height: 160px !important;
         width: 190px !important;
+        padding-top: 10px !important;
+        margin-bottom: 260px !important;
     }
 
     .ad {
@@ -235,7 +236,7 @@ button:hover {
     display: flex;
     justify-content: center;
     flex-direction: column;
-    align-items: flex-start;
+    align-items: center;
     text-align: start;
 }
 
@@ -251,7 +252,7 @@ button:hover {
     display: flex;
     justify-content: center;
     flex-direction: column;
-    align-items: flex-end;
+    align-items: center;
     text-align: end;
 }
 
@@ -260,10 +261,8 @@ button:hover {
     color: red;
 }
 
-.navbar .brand {
-    color: coral;
-    margin: 3px 5px;
-    font-size: 1.5rem;
+.brand {
+    padding-top: 5px;
 }
 
 .small-img-group {

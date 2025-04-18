@@ -115,7 +115,7 @@ button:hover {
 .navbar {
     padding-top: 1px !important;
     padding-bottom: 1px !important;
-    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.5);
 }
 
 .navbar-light .navbar-nav .nav-link {
@@ -140,7 +140,8 @@ button:hover {
 
 @media (max-width: 768px) {
     .logo {
-        width: 80px;
+        padding-left: 30px !important;
+        width: 100px !important;
     }
 
     .navbar {
@@ -149,7 +150,11 @@ button:hover {
     }
 
     .nav-buttons {
-        margin: 10px;
+        margin-top: 60px !important;
+        margin-left: auto !important;
+        width:100%;
+        border-radius: 10px;
+        background-color:#fff !important;
     }
 
     .nav-buttons ul {

@@ -5,17 +5,17 @@ This is a static e-commerce website built using HTML, CSS, and JavaScript. The p
 Homepage with a product showcase. Product listing and details page. Add to Cart functionality (UI-based, no backend). Responsive design for mobile, tablet, and desktop screens. Basic animations for a modern user experience. This project serves as a foundation for understanding front-end web development and is ideal for beginners looking to enhance their web development skills.
 
 ## 🔧 Core Features:
-Responsive Layout: Optimized for desktops, tablets, and mobile devices.
+• Responsive Layout: Optimized for desktops, tablets, and mobile devices.
 
-Interactive Product Cards: Hover effects and animations enhance user engagement.
+• Interactive Product Cards: Hover effects and animations enhance user engagement.
 
-Navigation Menu: Easy-to-use navbar for accessing different sections (Home, Shop, About, Contact).
+• Navigation Menu: Easy-to-use navbar for accessing different sections (Home, Shop, About, Contact).
 
-Call-to-Action Buttons: Highlighted CTAs like "Shop Now" to drive user actions.
+• Call-to-Action Buttons: Highlighted CTAs like "Shop Now" to drive user actions.
 
-Product Filtering (optional): Allows sorting or filtering products by category (if implemented).
+• Product Filtering (optional): Allows sorting or filtering products by category (if implemented).
 
-Modern Styling: Uses CSS Flexbox/Grid and gradients for a stylish, modern look.
+• Modern Styling: Uses CSS Flexbox/Grid and gradients for a stylish, modern look.
 
 Feel free to clone, modify, and explore!
 

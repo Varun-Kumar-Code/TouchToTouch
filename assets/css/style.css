@@ -152,9 +152,9 @@ button:hover {
     .nav-buttons {
         margin-top: 60px !important;
         margin-left: auto !important;
-        width:100%;
+        width: 100%;
         border-radius: 10px;
-        background-color:#fff !important;
+        background-color: #fff !important;
     }
 
     .nav-buttons ul {

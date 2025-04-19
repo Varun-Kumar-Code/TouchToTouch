@@ -152,9 +152,9 @@ button:hover {
     .nav-buttons {
         margin-top: 60px !important;
         margin-left: auto !important;
-        width: 100%;
+        width:100%;
         border-radius: 10px;
-        background-color: #fff !important;
+        background-color:#fff !important;
     }
 
     .nav-buttons ul {
@@ -194,6 +194,23 @@ button:hover {
 
     #banner {
         width: 100% !important;
+    }
+
+    .cart table {
+        width: 100% !important;
+        border-collapse: collapse !important;
+    }
+
+    #login-form {
+        width: 100% !important;
+    }
+
+    #register-form {
+        width: 100% !important;
+    }
+
+    #account-form {
+        width: 50% !important;
     }
 
 }

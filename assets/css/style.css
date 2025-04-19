@@ -196,16 +196,28 @@ button:hover {
         width: 100% !important;
     }
 
-    .cart table {
-        width: 100% !important;
-        border-collapse: collapse !important;
+    .cart input{
+        width:100% !important;
+    }
+    
+    .cart th {
+        text-align: left;
+        padding: 5px 10px !important;
     }
 
     #login-form {
         width: 100% !important;
     }
 
-    #register-form {
+    #login-form input {
+        width: 100% !important;
+    }
+
+    #register-form{
+        width: 100% !important;
+    }
+
+    #register-form input{
         width: 100% !important;
     }
 
@@ -367,7 +379,6 @@ p {
     text-decoration: none;
 }
 
-
 h1 h2 h3 h4 {
     text-decoration: none;
 }
@@ -504,9 +515,7 @@ footer p {
 
 .cart-total table {
     width: 100%;
-    max-width: 500px;
     border-top: 3px solid #fb774b;
-    ;
 }
 
 .td:last-child {
